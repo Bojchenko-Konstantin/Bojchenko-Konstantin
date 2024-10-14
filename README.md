@@ -23,7 +23,7 @@
 
 ### My stat
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bojchenko-Konstantin&theme=solarized"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bojchenko-Konstantin&theme=solarized"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bojchenko-Konstantin&theme=solarized"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bojchenko-Konstantin&theme=vue"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bojchenko-Konstantin&theme=vue"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bojchenko-Konstantin&theme=vue"/>
 </div>
