@@ -5,7 +5,7 @@
 
 <div align="center" style="display: flex; align-items: center;"> 
     <div style="margin-right: 20px;"> 
-        <p>A little about myself</p> 
+        <h4>A little about myself</h4> 
         <p>When I was the head of a department at a pharmaceutical company, I became intrigued by the possibility of automating my routine daily tasks – that’s how my journey into IT began. Over time, I realized that what mattered most to me in my work was the satisfaction of a job well done. This insight led me to the decision to transition into the IT field.</p> 
     </div> 
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> 
