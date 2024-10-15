@@ -8,7 +8,7 @@
         "Most good programmers do their work not because they expect payment or recognition, but because they enjoy programming.<br>
         - Linus Torvalds"
     </blockquote>
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="150" height="150"/> 
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> 
 </div>
 
 ### Socials 
