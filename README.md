@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    <blockquote>At the end of each day, ask yourself: 'Have I become better today than I was yesterday?'</blockquote>
+    <blockquote>At the end of each day, ask yourself: 'Have I become better today than I was yesterday ?'</blockquote>
 </div>
 
 ### Socials
