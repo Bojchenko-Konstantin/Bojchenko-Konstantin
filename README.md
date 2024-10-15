@@ -2,14 +2,13 @@
     <h1>Hi there! I'm Konstantin</h1> 
     <h3>Backend Developer from Tyumen</h3> 
 </div> 
- 
-<div align="center"> 
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> 
-</div> 
 
-<div align="center">
-    <blockquote>"Most good programmers do their work not because they expect payment or recognition, but because they enjoy programming.
-- Linus Torvalds"</blockquote>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <blockquote style="margin-right: 20px; max-width: 300px;">
+        "Most good programmers do their work not because they expect payment or recognition, but because they enjoy programming.<br>
+        - Linus Torvalds"
+    </blockquote>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/> 
 </div>
 
 ### Socials 
