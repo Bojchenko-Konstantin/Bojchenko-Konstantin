@@ -12,8 +12,6 @@
 - Linus Torvalds"</blockquote>
 </div>
 
-<h3 align="center">Backend Developer from Tyumen</h3>
-
 ### Socials 
 <div id="socials" align="center"> 
     <a href="https://t.me/Konstant1no72"> 
