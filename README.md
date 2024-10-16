@@ -18,11 +18,6 @@
     </a>
 </div>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Bojchenko-Konstantin&style=flat-square&color=blue" alt=""/>
-</div>
-
-
 ### Languages and tools
 <div id="languages and tools" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
