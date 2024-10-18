@@ -4,13 +4,12 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="250"/>
 </div>
-<h3></h3>
+<h4></h4>
 <div align="center">
     <blockquote>At the end of each day, ask yourself: 'Have I become better today than I was yesterday ?'</blockquote>
 </div>
-
 
 <div id="contact me" align="center">
     <h3>Сontact me</h3>
