@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
-
+<h3></h3>
 <div align="center">
     <blockquote>At the end of each day, ask yourself: 'Have I become better today than I was yesterday ?'</blockquote>
 </div>
