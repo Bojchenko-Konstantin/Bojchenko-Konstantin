@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there! I'm Konstantin :wave: </h1>
-    <h3>Backend Developer from Tyumen</h3>
+    <h3><i><b>Backend Developer from Tyumen</b></i></h3>
 </div>
 
 <div align="center">
