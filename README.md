@@ -13,7 +13,6 @@
 
 
 <div id="contact me" align="center">
-    <h2></h2>
     <h3>Сontact me</h3>
     <a href="https://t.me/Konstant1no72">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
