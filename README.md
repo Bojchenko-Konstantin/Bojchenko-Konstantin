@@ -11,16 +11,16 @@
     <blockquote>At the end of each day, ask yourself: 'Have I become better today than I was yesterday ?'</blockquote>
 </div>
 
-### Сontact me
-<div id="contact me" align="left">
+
+<div id="contact me" align="center">
+    <h3>Сontact me</h3>
     <a href="https://t.me/Konstant1no72">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
 </div>
 
-### Technology stack
-
 <div id="technology stack" align="center">
+    <h3>Technology stack</h3>
     <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" width="60" height="60"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="60" height="60"/>&nbsp;
@@ -47,8 +47,8 @@
     </div>
 </div>
 
-### My stat
 <div id="stat" align="center">
+    <h2>My stat</h2>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bojchenko-Konstantin&theme=vue"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bojchenko-Konstantin&theme=vue"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bojchenko-Konstantin&theme=vue"/>
