@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there! I'm Konstantin :wave: </h1>
-    <h3><i><b>Backend Developer from Tyumen</b></i></h3>
+    <h3><b>Backend Developer from Tyumen</b></h3>
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 </div>
 <h3></h3>
 <div align="center">
-    <blockquote>At the end of each day, ask yourself: 'Have I become better today than I was yesterday ?'</blockquote>
+    <blockquote><i>At the end of each day, ask yourself: 'Have I become better today than I was yesterday ?'</i></blockquote>
 </div>
 
 <div id="contact me" align="center">
