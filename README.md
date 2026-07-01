@@ -51,15 +51,9 @@
 <div id="stat" align="center">
     <h3>My stat</h3>
     <img height="180em" src="https://github-readme-stats-d0nd.onrender.com/api?username=Bojchenko-Konstantin&show_icons=true&count_private=true&include_all_commits=true&theme=vue"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bojchenko-Konstantin&layout=compact&count_private=true&langs_count=8&theme=vue"/>
+    <img height="180em" src="https://github-readme-stats-d0nd.onrender.com/api/top-langs/?username=Bojchenko-Konstantin&layout=compact&count_private=true&langs_count=8&theme=vue"/>
 </div>
 
 <div id="streak" align="center">
     <img src="https://streak-stats.demolab.com/?user=Bojchenko-Konstantin&theme=vue"/>
-</div>
-
-<h2></h2>
-<div id="trophies" align="center">
-    <h3>Trophies</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=Bojchenko-Konstantin&theme=flat&column=7&margin-w=8&margin-h=8&no-frame=true"/>
 </div>
